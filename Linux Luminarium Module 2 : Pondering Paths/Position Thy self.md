@@ -16,7 +16,7 @@ Steps I used:
 Errors:
 1. I did a mistake by firectly running the program fron the default directory.
 
-' ' '
+```
 hacker@paths~position-thy-self:~$ /challenge/run
 Incorrect...
 You are not currently in the /usr/bin directory.
@@ -28,7 +28,7 @@ Correct!!!
 Here is your flag:
 pwn.college{cXC0l3DP4SDL4FjC79gAQ8gjfXS.QX2QTN0wSMyAzNzEzW}
 hacker@paths~position-thy-self:/usr/bin$
-' ' '
+```
 
 ## What I Learned
 
