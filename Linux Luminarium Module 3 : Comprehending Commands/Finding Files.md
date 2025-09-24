@@ -1,27 +1,22 @@
-Flag : 
+Flag : pwn.college{kcDHLDxtdoEMfqoIEFZITMIXOaW.QXyMDO0wSMyAzNzEzW}
 # Finding Files
 
-### Put challenge description here
+### Finding a file based on cerain criteria
 
-**Flag:** `pwn.college{helloworld}`
+**Flag:** `pwn.college{kcDHLDxtdoEMfqoIEFZITMIXOaW.QXyMDO0wSMyAzNzEzW}`
 
-explain your solve and how you got to it, explain any incorrect tangents you went on while solving.
-
-to put code snippets, put three backticks and for images and all other stuff you wish to put here, refer to the documentation given to you.
-
-don't style it too much, your solve should be readable and understandable by you so that when you have doubts, you refer to your own writeups, instead of gpt.
+I used the `find` command with a `-name` criteria to search for `flag`.
 
 ```
-#!/bin/bash
-
-example triple ticks for bash
-
-pwn.college{helloworld}
+hacker@commands~finding-files:~$ cd /
+hacker@commands~finding-files:/$ find -name flag
+hacker@commands~finding-files:/$ cat ./usr/lib/debug/.build-id/84/flag
+pwn.college{kcDHLDxtdoEMfqoIEFZITMIXOaW.QXyMDO0wSMyAzNzEzW}
 ```
 
 ## What I learned
 
-explain what you learned
+1. I learnt how to find files in a certain directory using certain criteria like its name.
 
 ## References
 
