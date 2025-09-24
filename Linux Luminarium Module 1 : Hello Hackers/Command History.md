@@ -12,7 +12,6 @@ This level places the flag as a previous command in the history. To get it I ope
 ## What I Learned
 
 * How to navigate command history with the up and down arrow keys.
-* That previous commands can be retrieved, edited, and re-run without retyping them.
 * This is useful for repeating long commands or recovering mistakes.
 
 ## References
@@ -21,4 +20,3 @@ This level places the flag as a previous command in the history. To get it I ope
 
 ---
 
-Paste the exact flag or your terminal transcript and I will replace the placeholder and format the final writeup for your GitHub.
