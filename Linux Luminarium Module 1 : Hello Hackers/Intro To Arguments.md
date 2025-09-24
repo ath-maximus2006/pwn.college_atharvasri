@@ -18,10 +18,8 @@ hacker@dojo:~$
 
 ## What I Learned
 
-* How the shell splits input into a command and arguments: the first word is the command, subsequent words are arguments.
-* That many simple utilities (like `echo`) print their arguments back, while challenge binaries (like `hello`) may use arguments to change behavior.
-* The importance of exact casing and spacing when invoking commands.
-
+* How linux understands the code : the first word is the command, subsequent words are arguments.
+* 
 ## References
 
 * None
