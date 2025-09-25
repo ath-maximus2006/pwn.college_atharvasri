@@ -1,28 +1,24 @@
-Flag : 
+Flag : pwn.college{sCKmiYFklbgFp413fS1zihyVhT4.QX0ITO0wSMyAzNzEzW}
 # Learning From Documentation
 
-### Put challenge description here
+### Learning to follow instruction using the right documentation
 
-**Flag:** `pwn.college{helloworld}`
+**Flag:** `pwn.college{sCKmiYFklbgFp413fS1zihyVhT4.QX0ITO0wSMyAzNzEzW}`
 
-explain your solve and how you got to it, explain any incorrect tangents you went on while solving.
-
-to put code snippets, put three backticks and for images and all other stuff you wish to put here, refer to the documentation given to you.
-
-don't style it too much, your solve should be readable and understandable by you so that when you have doubts, you refer to your own writeups, instead of gpt.
+In this challenge, i had to follow what was presented in the given documentation and hence, get the flag.
 
 ```
-#!/bin/bash
-
-example triple ticks for bash
-
-pwn.college{helloworld}
+hacker@man~learning-from-documentation:~$ /challenge/challenge --giveflag
+Correct argument! Here is your flag:
+pwn.college{sCKmiYFklbgFp413fS1zihyVhT4.QX0ITO0wSMyAzNzEzW}
 ```
 
 ## What I learned
 
-explain what you learned
+1. Learning to read Documentation
 
 ## References
 
-Add an references or videos you used while solving the challenge.
+None. 
+
+---
